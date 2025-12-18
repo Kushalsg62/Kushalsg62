@@ -1,13 +1,13 @@
 ## Hi 👋, I'm Kushal SG
 
-Software Engineer from India 🇮🇳 with a strong interest in building scalable, reliable, and well-structured software systems.
+Software Engineer from India 🇮🇳 with a strong interest in building reliable, scalable, and well-structured software systems across different layers of application development.
 
 ---
 
 ### 👨‍💻 About Me
 
-* 🌱 Currently learning **System Design** and advanced backend architecture concepts
-* 💼 Focused on building production-ready applications using **Java, Spring Boot, and modern backend tools**
+* 🌱 Currently learning **System Design** and modern software architecture concepts
+* 💼 Focused on building production-ready software using **Java, Spring Boot, and full-stack development practices**
 * 🧠 Strong foundation in **Data Structures, Algorithms, and problem-solving**
 * 🔍 Actively preparing for **software engineering roles** and real-world engineering challenges
 
@@ -23,8 +23,9 @@ Software Engineer from India 🇮🇳 with a strong interest in building scalabl
 
 ### 💬 Ask Me About
 
-* Backend Development
+* Software Engineering
 * Java & Spring Boot
+* System Design Fundamentals
 * Data Structures and Algorithms
 * API Design and Database Integration
 
@@ -42,7 +43,7 @@ Software Engineer from India 🇮🇳 with a strong interest in building scalabl
 **Programming Languages**
 Java · Python · C · C++ · JavaScript
 
-**Backend & Frameworks**
+**Frameworks & Development**
 Spring Boot · REST APIs · Flask · Django · Node.js
 
 **Databases**
