@@ -1,27 +1,27 @@
-## Hi 👋, I'm Kushal SG
+## Hi, I'm Kushal SG
 
 Software Engineer from India 🇮🇳 with a strong interest in building reliable, scalable, and well-structured software systems across different layers of application development.
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
-* 🌱 Currently learning **System Design** and modern software architecture concepts
-* 💼 Focused on building production-ready software using **Java, Spring Boot, and full-stack development practices**
-* 🧠 Strong foundation in **Data Structures, Algorithms, and problem-solving**
-* 🔍 Actively preparing for **software engineering roles** and real-world engineering challenges
-
----
-
-### 📂 Work & Projects
-
-* 💻 All of my projects are available on **GitHub**, covering backend systems, APIs, and full-stack applications
-* 🧩 Hands-on experience with **RESTful APIs, database integration, and clean application design**
-* 🚀 Continuously improving existing projects by enhancing performance, structure, and scalability
+* Currently learning **System Design** and modern software architecture concepts
+* Focused on building production-ready software using **Java, Spring Boot, and full-stack development practices**
+* Strong foundation in **Data Structures, Algorithms, and problem-solving**
+* Actively preparing for **software engineering roles** and real-world engineering challenges
 
 ---
 
-### 💬 Ask Me About
+### Work & Projects
+
+* All of my projects are available on **GitHub**, covering backend systems, APIs, and full-stack applications
+* Hands-on experience with **RESTful APIs, database integration, and clean application design**
+* Continuously improving existing projects by enhancing performance, structure, and scalability
+
+---
+
+### Ask Me About
 
 * Software Engineering
 * Java & Spring Boot
@@ -31,14 +31,14 @@ Software Engineer from India 🇮🇳 with a strong interest in building reliabl
 
 ---
 
-### 📫 Contact
+### Contact
 
-* 📧 Email: [kushalsgshetty@gmail.com](mailto:kushalsgshetty@gmail.com)
-* 🔗 LinkedIn: www.linkedin.com/in/kushal-sg-6a6b2a207
+*  Email: [kushalsgshetty@gmail.com](mailto:kushalsgshetty@gmail.com)
+*  LinkedIn: www.linkedin.com/in/kushal-sg-6a6b2a207
 
 ---
 
-### 🛠️ Languages & Tools
+### Languages & Tools
 
 **Programming Languages**
 Java · Python · JavaScript
@@ -54,11 +54,11 @@ Git · GitHub · Docker · Postman · AWS (Basics)
 
 ---
 
-### 📊 GitHub Activity
+### GitHub Activity
 
 * Consistent contributor with hands-on experience across multiple repositories
 * Focused on meaningful commits, clean code, and collaborative development
 
 ---
 
-⭐ Open to opportunities where I can contribute, learn, and grow as a software engineer.
+Open to opportunities where I can contribute, learn, and grow as a software engineer.
