@@ -1,44 +1,63 @@
-## Hey there 👋
+## Hi 👋, I'm Kushal SG
 
-I'm **Kushal SG**, a software engineer based in India.  
-
-I design and build backend systems and full-stack applications using **Java, Spring Boot, SQL and React**.  
-
-I focus on creating practical solutions with clean, maintainable code. 
-
-This is my space for projects, experiments, and continuous learning.  
-
-Everything here is built from scratch—no templates or shortcuts.
+Software Engineer from India 🇮🇳 with a strong interest in building scalable, reliable, and well-structured software systems.
 
 ---
 
-## Tools & Tech
-· Java, Spring Boot, SQL  
-· Python, Flask  
-· HTML, CSS, JavaScript, ReactJS  
-· RESTful APIs, Microservices  
-· VS Code, IntelliJ IDEA, Git  
+### 👨‍💻 About Me
+
+* 🌱 Currently learning **System Design** and advanced backend architecture concepts
+* 💼 Focused on building production-ready applications using **Java, Spring Boot, and modern backend tools**
+* 🧠 Strong foundation in **Data Structures, Algorithms, and problem-solving**
+* 🔍 Actively preparing for **software engineering roles** and real-world engineering challenges
 
 ---
 
-## What I Build
-· Backend services and REST APIs  
-· Database design and optimization  
-· Full-stack web applications  
-· Scalable system architectures  
+### 📂 Work & Projects
+
+* 💻 All of my projects are available on **GitHub**, covering backend systems, APIs, and full-stack applications
+* 🧩 Hands-on experience with **RESTful APIs, database integration, and clean application design**
+* 🚀 Continuously improving existing projects by enhancing performance, structure, and scalability
 
 ---
 
-## Current Focus
-· Advanced Spring Boot patterns  
-· Microservices architecture  
-· System design and problem-solving  
+### 💬 Ask Me About
+
+* Backend Development
+* Java & Spring Boot
+* Data Structures and Algorithms
+* API Design and Database Integration
 
 ---
 
-## A Bit About Me
-· I value clean code and structured projects  
-· I enjoy solving real-world problems through software  
-· I believe in hands-on learning and building things properly  
-· Open to collaborations and meaningful opportunities
+### 📫 Contact
 
+* 📧 Email: [your-email@example.com](mailto:your-email@example.com)
+* 🔗 LinkedIn: your-linkedin-profile
+
+---
+
+### 🛠️ Languages & Tools
+
+**Programming Languages**
+Java · Python · C · C++ · JavaScript
+
+**Backend & Frameworks**
+Spring Boot · REST APIs · Flask · Django · Node.js
+
+**Databases**
+MySQL · PostgreSQL · SQLite · MongoDB
+
+**Tools & Platforms**
+Git · GitHub · Docker · Postman · Linux · AWS (Basics)
+
+---
+
+### 📊 GitHub Activity
+
+* Consistent contributor with hands-on experience across multiple repositories
+* Focused on meaningful commits, clean code, and collaborative development
+
+---
+
+⭐ Open to opportunities where I can contribute, learn, and grow as a software engineer.
