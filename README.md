@@ -33,24 +33,24 @@ Software Engineer from India 🇮🇳 with a strong interest in building reliabl
 
 ### 📫 Contact
 
-* 📧 Email: [your-email@example.com](mailto:your-email@example.com)
-* 🔗 LinkedIn: your-linkedin-profile
+* 📧 Email: [kushalsgshetty@gmail.com](mailto:kushalsgshetty@gmail.com)
+* 🔗 LinkedIn: www.linkedin.com/in/kushal-sg-6a6b2a207
 
 ---
 
 ### 🛠️ Languages & Tools
 
 **Programming Languages**
-Java · Python · C · C++ · JavaScript
+Java · Python · JavaScript
 
 **Frameworks & Development**
-Spring Boot · REST APIs · Flask · Django · Node.js
+Spring Boot · REST APIs · Flask
 
 **Databases**
-MySQL · PostgreSQL · SQLite · MongoDB
+MySQL · PostgreSQL · SQLite
 
 **Tools & Platforms**
-Git · GitHub · Docker · Postman · Linux · AWS (Basics)
+Git · GitHub · Docker · Postman · AWS (Basics)
 
 ---
 
