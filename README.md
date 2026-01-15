@@ -41,7 +41,10 @@ Software Engineer from India 🇮🇳 with a strong interest in building reliabl
 ### Languages & Tools
 
 **Programming Languages**
-Java · Python · JavaScript
+Java · Python
+
+**Web Development**
+HTML · CSS (Tailwind) · JavaScript · ReactJS
 
 **Frameworks & Development**
 Spring Boot · REST APIs · Flask
