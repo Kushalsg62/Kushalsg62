@@ -6,8 +6,8 @@ Software Engineer from India 🇮🇳 with a strong interest in building reliabl
 
 ### About Me
 
-* Currently learning **System Design** and modern software architecture concepts
-* Focused on building production-ready software using **Java, Spring Boot, and full-stack development practices**
+* Currently learning **Data Structures & Algorithms** and **System Design** and modern software architecture concepts
+* Focused on building production-ready software using **Java, Spring Boot, and full-stack development**
 * Actively preparing for **software engineering roles** and real-world engineering challenges
 
 ---
