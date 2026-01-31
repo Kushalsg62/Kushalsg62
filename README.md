@@ -8,7 +8,6 @@ Software Engineer from India 🇮🇳 with a strong interest in building reliabl
 
 * Currently learning **System Design** and modern software architecture concepts
 * Focused on building production-ready software using **Java, Spring Boot, and full-stack development practices**
-* Strong foundation in **Data Structures, Algorithms, and problem-solving**
 * Actively preparing for **software engineering roles** and real-world engineering challenges
 
 ---
@@ -26,7 +25,6 @@ Software Engineer from India 🇮🇳 with a strong interest in building reliabl
 * Software Engineering
 * Java & Spring Boot
 * System Design Fundamentals
-* Data Structures and Algorithms
 * API Design and Database Integration
 
 ---
